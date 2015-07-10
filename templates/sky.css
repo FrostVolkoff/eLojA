@@ -1,0 +1,35 @@
+html{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	color: #536482;
+	background-color: #7FB8FA;
+	background-image: url(../templates/images/sky_bg.png);
+	background-position: center bottom;
+	background-attachment: fixed;
+	background-repeat: repeat-x;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0px;
+}
+
+.logon{
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	background-color: rgba(255, 255, 255, 0.3);
+}
+
+.logon.screen{
+	width: 50%;
+	height: 50%;
+	min-width: 200px;
+	min-height: 350px;
+	padding: 40px;
+}
+
+#banner{
+	
+}
