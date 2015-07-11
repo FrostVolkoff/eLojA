@@ -10,6 +10,8 @@
 	</head>
 
 	<body>
-		<?php require 'login.php'; ?>
+		<div class="wrapper">
+			<?php require 'login.php'; ?>
+		</div>
 	</body>
 </html>
